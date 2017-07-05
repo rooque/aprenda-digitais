@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  flex: 1;
+  max-width: 400px;
+}
+
+.hackh{
+  height: 100vh;
+}
+
+.avatar {
+  display: flex;
+  justify-content: center;
+}
+
+.avatarname {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.butdiv {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0px;
+}
+
+.progdiv {
+  display: flex;
+  justify-content: center;
+  padding-top: 3px;
+  font-size: 16px;
+}

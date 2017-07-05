@@ -1,0 +1,115 @@
+.container {
+  //display: flex;
+  //height: 100vh;
+  //justify-content: center;
+  //align-items: center;
+  margin-top:20px;
+}
+
+.conteext{
+    height: 100vh;
+}
+
+.card {
+  min-height: 87vh;
+}
+
+.backButton {
+  position: absolute;
+}
+
+.topprog{
+    min-width: 100px;
+}
+
+.toptitle{
+    min-width: 55px;
+}
+
+.toptext{
+    min-width: 50px;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+.inside{
+    display: flex;
+    flex:1;
+    position: relative;
+    height: 80vh;
+    
+}
+
+.insider{
+    display: flex;
+    flex:7;
+    flex-direction: column ;
+    border: 1px;
+    border-color: black;
+    border-style: ridge;
+    border-right: 0px;
+    height: 100%;
+}
+
+.insidert{
+    display: flex;
+    justify-content: center;
+}
+
+.insiderm{
+    display: flex;
+    flex:1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column ;
+}
+
+.insiderb{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.insidel{
+    display: flex;
+    flex:3;
+    height: 100%;
+    border: 1px;
+    border-color: black;
+    border-style: ridge;
+    flex-direction: column ;
+}
+
+.insidelt{
+  display: flex;
+    justify-content: center;
+    
+}
+
+.insidelm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column ;
+    flex:1;
+}
+
+.insidelb{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.insidertext{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.swtext{
+    margin-left: 10px;
+}
+
+
